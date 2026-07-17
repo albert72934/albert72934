@@ -33,13 +33,8 @@ Actualmente estoy enfocando mi aprendizaje en el desarrollo **Backend con Python
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
-
----
 
 ## 🎯 Objetivos
 
@@ -57,5 +52,18 @@ Actualmente estoy enfocando mi aprendizaje en el desarrollo **Backend con Python
 - 💼 [Linkedin](www.linkedin.com/in/albertluciano)
 
 
+---
+## 📈 GitHub Analytics
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=albert72934&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=albert72934&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=albert72934&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=albert72934&theme=github-dark-blue&hide_border=true" />
+</p>
